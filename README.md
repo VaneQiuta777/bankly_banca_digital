@@ -42,7 +42,7 @@
 
 ## Objetivo
 
-  Definir un MVP (prototipo) de los bancos digitales para millennials.
+  Definir un MVP (prototipo) para millennials de un Banco digital.
 
 ***
 
@@ -61,19 +61,19 @@
 ## B. Plantear el Kick-Off Meeting
 
    ### Antes de la reunión
-   * Conocer todo sobre el proyecto
+   *Conocer todo sobre el proyecto*
     - ¿Cuál es el objetivo del proyecto?
     - ¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)
     - ¿Cuál es el alcance del proyecto y sus entregables principales?
     - ¿Cuáles son las fechas críticas (hitos) del proyecto?
     - ¿Cuál es su coste?
     - ¿Cuáles son los principales riesgos asociados al proyecto?
-   * Conocer el entorno del proyecto
+   *Conocer el entorno del proyecto*
     - ¿Existe algún supuesto, premisa, restricción o exclusión que se tiene que tener en cuenta?
-   * Entender el entorno (la organización, el sector,…) en el que se va a desarrollar el proyecto
-   * Conocer a los principales stakeholders
-   * Identificar y conocer los stakeholders (interesados/afectados) del proyecto.
-   * Establecer una agenda, que responda lo siguiente:
+   *Entender el entorno (la organización, el sector,…) en el que se va a desarrollar el proyecto*
+   *Conocer a los principales stakeholders*
+   *Identificar y conocer los stakeholders (interesados/afectados) del proyecto.*
+   *Establecer una agenda, que responda lo siguiente:*
     - ¿Por qué? Por qué se está haciendo el proyecto. Qué busca resolver.
     - ¿Qué? En qué consiste la solución. Qué se va hacer. 
     - ¿Cómo? Cómo se va a trabajar.
@@ -103,7 +103,7 @@
    ![research](assets/images/research.png)
    
    ### Actividades:
-   * 1.- Revisar análitica
+   *1.- Revisar análitica*
      + Buscar datos cuantitativos.
        - Identificar porcentaje y edad de los millennials que tienen una cuenta bancaria.
        - Indicadores socioeconómicos de los millennials.
@@ -117,29 +117,29 @@
        - Entrevistas a clientes finales (millennials)
        - Entrevistas a clientes o potenciales socios (financieras)
 
-    * 2.- Análisis competitivo y benchmark
+   *2.- Análisis competitivo y benchmark*
       - Conocer los bancos o financieras nacionales que realizan transacciones digitales.
       - Conocer los bancos o financieras extranjeras que realizan transacciones digitales.
       - Realizar el benchmark de las entidades identificadas.
       - Realizar un análisis comparativo entre las entidades ya propuestas.
 
-    * 3.- Hacer entrevistas con usuarios
+   *3.- Hacer entrevistas con usuarios*
       - Identificar y definir las preguntas a realizar a los usuarios, a través de brainstorming.
       - Realizar un modelo de entrevista.
       - Identificar y definir los lugares a dirigirnos para realizar las entrevistas. 
 
-    * 4.- Hacer entrevistas con expertos
+   *4.- Hacer entrevistas con expertos*
       - Identificar y definir las preguntas a realizar a los expertos, a través de brainstorming.
       - Definir nuestros stakeholders.
       - Plantear las preguntas clave a realizarse a los stake holders.
 
-    * 5.- Hacer sesiones de testing de la aplicación actual
+   *5.- Hacer sesiones de testing de la aplicación actual*
       - Definir un prototipo hipotético.
       - Realizar el testeo del prototipo hipotético a más de 5 personas.
       - Identificar y sintetizar los feedback recibidos del prototipo hipotético.
       - Definir los puntos a mejorar del prototipo hipotético. 
 
-    * 6.- Sintetizar los findings
+   *6.- Sintetizar los findings*
       - Definir las funcionalidades clave.
       - Definir nuestro business model canvas.
 
@@ -284,7 +284,7 @@
 
    Se hizo testing del Paper Prototyping. La finalidad: obtener feedback para mejorar el flujo de nuestro producto antes de realizar el prototipado del MVP.
 
-  1.- Entrevistas a 6 usuarios.
+  1.- Entrevistas a 7 usuarios.
   2.- El proceso consistió en explicar el objetivo del prototipo y el flujo con un tiempo de 15 minutos por usuario.
   3.- Después de recibir feedback se procedió a mejorar el paper prototyping.
   4.- Finalmente pasamos a prototipar nuestras vistas en Marvel y Figma.
@@ -344,7 +344,7 @@
     * El botón de depósito, debe ser ubicado en un mejor lugar de la aplicación.
     * Desarrollar la seguridad a través de otro medio que la huella dactilar.
 
-  **Resultado final Prototipo - Alta fidelidad (Versión 01)**
+  **Resultado final Prototipo - Alta fidelidad (Versión 02)**
 
     Con las observaciones recibidas en la exposición se decidió hacer cambios.
     
