@@ -2,7 +2,7 @@
 
 # RETO: BANCO DIGITAL PARA MILLENNIALS "BANKLY"
 
-![logo_Banco](assets/images/logo3.png)
+![logo_Banco](assets/images/proto_0.png)
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
 * **CURSO:** _CONOCCIENDO LOS NEGOCIOS_
