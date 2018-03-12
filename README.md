@@ -1,24 +1,16 @@
 ![logo](assets/images/logo_laboratoria.png)
 
-# RETO: BANCO DIGITAL PARA MILLENNIALS "BANKLY"
-
-![logo_Banco](assets/images/proto_0.png)
 
 * **TRACK:** _ESPECIALIZACIÓN UX-DESIGNER_
-* **CURSO:** _CONOCCIENDO LOS NEGOCIOS_
+* **CURSO:** _CONOCIENDO LOS NEGOCIOS_
 * **UNIDAD 1:** _LECCIONES BÁSICAS DE NEGOCIOS_
 * **UNIDAD 2:** _LECCIONES SOBRE DISEÑO Y TECNOLOGÍA_
 
 ***
+# RETO: BANCO DIGITAL PARA MILLENNIALS 
+![logo_Banco](assets/images/bankly_logo.png)
 
-## Equipo de trabajo
-
-+ Colqui Santos, L. Vanessa.
-+ Humpire, Esthefany.
-
-***
-
-## Descripción del reto
+### Descripción del reto
 
 * Reto 1:
 
@@ -42,17 +34,18 @@
 
 ## Objetivo
 
-  Definir un MVP (prototipo) para millennials de un Banco digital.
+  Definir un MVP (prototipo) de los bancos digitales para millennials.
 
 ***
 
 ## Desarrollo
 
- - Para definir el negocio se identificaron a los Stakeholders, Plan de Kick-Off, BCM y Plan de Research.
+ - Para definir el negocio se identificaron a los Stakeholders, Plan de Kick-Off, BMC y Plan de Research.
  - Para la resolución del reto seguimos las estapas de DCU (Diseño Centrado en el Usuario).
- - Para la organización y planificación usamos la herramienta Trello,  [Banco digital para Millennials](https://trello.com/b/SRu4SJju/reto-ux-nuevo-banco-digital).
+ - Para la organización y planificación, usamos la herramienta Trello. [Banca digital](https://trello.com/b/SRu4SJju/reto-ux-nuevo-banco-digital).
+  ![image](assets/images/trello01.PNG)
 
-## Etapas de desarrollo del negocio
+## Reto 1
 
 ## A. Identificar a los Stakeholders
 
@@ -61,19 +54,20 @@
 ## B. Plantear el Kick-Off Meeting
 
    ### Antes de la reunión
-   *Conocer todo sobre el proyecto*
+   * Conocer todo sobre el proyecto
+
     - ¿Cuál es el objetivo del proyecto?
     - ¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)
     - ¿Cuál es el alcance del proyecto y sus entregables principales?
     - ¿Cuáles son las fechas críticas (hitos) del proyecto?
     - ¿Cuál es su coste?
     - ¿Cuáles son los principales riesgos asociados al proyecto?
-   *Conocer el entorno del proyecto*
+   * Conocer el entorno del proyecto
     - ¿Existe algún supuesto, premisa, restricción o exclusión que se tiene que tener en cuenta?
-   *Entender el entorno (la organización, el sector,…) en el que se va a desarrollar el proyecto*
-   *Conocer a los principales stakeholders*
-   *Identificar y conocer los stakeholders (interesados/afectados) del proyecto.*
-   *Establecer una agenda, que responda lo siguiente:*
+   * Entender el entorno (la organización, el sector) en el que se va a desarrollar el proyecto
+   * Conocer a los principales stakeholders
+   * Identificar y conocer los stakeholders (interesados/afectados) del proyecto.
+   * Establecer una agenda, que responda lo siguiente:
     - ¿Por qué? Por qué se está haciendo el proyecto. Qué busca resolver.
     - ¿Qué? En qué consiste la solución. Qué se va hacer. 
     - ¿Cómo? Cómo se va a trabajar.
@@ -81,7 +75,8 @@
     - ¿Quién? Quién va hacer qué.
 
 ### Durante la reunión
-   - El objetivo es conocer de primera mano las expectativas, las principales preocupaciones y, sobre todo, reducir o al menos minimizar las incertidumbres que pueda haber, de los asistentes.
+
+   OBJETIVO: Conocer de primera mano las expectativas, las principales preocupaciones y, sobre todo, reducir o al menos minimizar las incertidumbres que pueda haber, de los asistentes.
    - Mostrar el objetivo y misión del proyecto y su alcance.
    - Presentar el calendario global (no tiene que ser detallado) con los principales hitos y entregables que se van a producir.
    - Mostrar los riesgos que se identificó y abrir un breve debate sobre si alguno de los presentes tiene identificado algún riesgo más.
@@ -103,13 +98,15 @@
    ![research](assets/images/research.png)
    
    ### Actividades:
-   *1.- Revisar análitica*
-     + Buscar datos cuantitativos.
+#### 1.- Revisar análitica 
+
+     1.1 Buscar datos cuantitativos.
        - Identificar porcentaje y edad de los millennials que tienen una cuenta bancaria.
        - Indicadores socioeconómicos de los millennials.
        - Encuestas para conocer las necesidades y/o problemas financieros de los millennials.
        - Analizar la data de las encuestas.
-     + Buscar datos cualitativos.
+       - 
+    1.2 Buscar datos cualitativos.
        - Identificar las transacciones digitales que se pueden realizar.
        - Identificar los procesos  que realizan los bancos.
        - Identificar los procesos digitales que realizan los bancos.
@@ -117,29 +114,28 @@
        - Entrevistas a clientes finales (millennials)
        - Entrevistas a clientes o potenciales socios (financieras)
 
-   *2.- Análisis competitivo y benchmark*
-      - Conocer los bancos o financieras nacionales que realizan transacciones digitales.
-      - Conocer los bancos o financieras extranjeras que realizan transacciones digitales.
+ ####  2.- Análisis competitivo y benchmark
+      - Conocer los bancos o entidades nacionales que realizan transacciones digitales.
+      - Conocer los bancos o entidades extranjeras que realizan transacciones digitales.
       - Realizar el benchmark de las entidades identificadas.
       - Realizar un análisis comparativo entre las entidades ya propuestas.
 
-   *3.- Hacer entrevistas con usuarios*
+#### 3.- Entrevistas a los usuarios
       - Identificar y definir las preguntas a realizar a los usuarios, a través de brainstorming.
       - Realizar un modelo de entrevista.
       - Identificar y definir los lugares a dirigirnos para realizar las entrevistas. 
 
-   *4.- Hacer entrevistas con expertos*
+#### 4.-  Entrevistas a los stakeholders
       - Identificar y definir las preguntas a realizar a los expertos, a través de brainstorming.
       - Definir nuestros stakeholders.
       - Plantear las preguntas clave a realizarse a los stake holders.
 
-   *5.- Hacer sesiones de testing de la aplicación actual*
-      - Definir un prototipo hipotético.
-      - Realizar el testeo del prototipo hipotético a más de 5 personas.
-      - Identificar y sintetizar los feedback recibidos del prototipo hipotético.
+#### 5.- Hacer sesiones de testing 
+      - Realizar el testeo del prototipo  a más de 5 personas.
+      - Identificar y sintetizar los feedback recibidos del prototipo 
       - Definir los puntos a mejorar del prototipo hipotético. 
 
-   *6.- Sintetizar los findings*
+#### 6.- Sintetizar los findings
       - Definir las funcionalidades clave.
       - Definir nuestro business model canvas.
 
@@ -155,7 +151,7 @@
    [Preguntas para la entrevista con usuarios:]().
    [Preguntas para la encuesta online con usuarios:]().
 
-   #### 2.- Entrevista con usuarios y expertos
+   #### 2.- Entrevista con usuarios y stakeholders
 
    - Recolección de datos presencial.
    - Universidad César Vallejo, 5 usuarios de edades entre 20 y 25 años de edad (millennials) .
@@ -182,23 +178,23 @@
    #### 1.- Definición del problema: Diagrama de afinidad.
 
    Se utilizó el diagrama de afinidad, a través los siguientes pasos:
-   - Paso 1.- En posits se colocó los comentarios( cosas que no les gusta, cosas que desearían, quejas, cosas que no quedaron claras, etc) tal cual como los usuarios lo mencionaron sin interpretaciones ni deducciones; dichos usuarios fueron de las entrevistas y encuestas.
+   - Paso 1.- En distintos post-it se colocaron los insights( cosas que no les gusta, cosas que desearían, quejas, cosas que no quedaron claras, etc) tal como los usuarios las mencionaron sin interpretaciones ni deducciones; dichos usuarios fueron los participantes de entrevistas y encuestas.
 
-   - Paso 2.-  Se agrupó  los posits por temas. El fin de esta actividad fue organizar lo recolectado para tener cosas claras y especificas  agrupadas en temas. Los temas que surgieron fueron: Dispositivos, tipos de cuenta, tipos de transacciones, elección del banco, reclamos y sugerencias.
+   - Paso 2.-  Se agruparon  los post-it por temas. El fin de esta actividad fue organizar lo recolectado para tener cosas claras y especificas  agrupadas en temas. Los temas que surgieron fueron: *Dispositivos, tipos de cuenta, tipos de transacciones, elección del banco, reclamos y sugerencias*.
 
-   ![Items del diagrama de afinidad](assets/images/diagrama de afinidad(1).png).
-   ![Items del diagrama de afinidad_2](assets/images/diagrama de afinidad(2).png).
+   ![diagrama](assets/images/affinity_map.jpg).
+   ![diagrama02](assets/images/affinity_map02.png).
 
-   #### 2.- Definición de los User personas.
+   #### 2.- Definición User persona.
 
-
+   ![user_persona](assets/images/user_persona.PNG)
 
 
    #### 6.- Definición de los Problems Statements.
 
-   - Se definió los problems statements en base a las necesidades de nuestros user persons ). Se usó el modelo:
+   - Se definieron los problems statements en base a las necesidades de nuestro user persona ). Se usó el modelo:
 
-        -  " CARLA NECESITA {necesidad} PORQUE/PARA {insight}".
+      *CARLA NECESITA : {necesidad}  PORQUE/PARA :{insight}*
 
 
    - Esta actividad nos ayuda más a centrarnos en los resultados que en el producto, ya que esta lista  de las necesidades de Carla y el motivo de sus necesidades, nos permite ir viendo formas de resolver ( HMW) específicamente cada necesidad punto por punto.
@@ -268,12 +264,20 @@
   - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactorio para el usuario antes de mandarlo al diseño de un interfaz de alta fidelidad.
 
   #### 4.- Realización del Prototipado - Alta fidelidad (Versión 01)
-   
-   [Prototipado Alta Fidelidad_1](https://marvelapp.com/project/2779796/)
-   
+    
+   ![prototipo](assets/images/prot_1.png)
+   ![prototipo](assets/images/prot_2.png)
+   ![prototipo](assets/images/prot_3.png)
+   ![prototipo](assets/images/prot_4.png)
+   ![prototipo](assets/images/prot_5.png)
+
  #### 5.- Realización del Prototipado - Alta fidelidad (Versión 02)
 
-   [prototipado_version 02](https://marvelapp.com/41eiae5/screen/39555290)
+   ![prototipo](assets/images/proto_1.png)
+   ![prototipo](assets/images/proto_2.png)
+   ![prototipo](assets/images/proto_3.png)
+   ![prototipo](assets/images/proto_4.png)
+   ![prototipo](assets/images/proto_5.png)
 
  ## E. Testing
 
@@ -284,7 +288,7 @@
 
    Se hizo testing del Paper Prototyping. La finalidad: obtener feedback para mejorar el flujo de nuestro producto antes de realizar el prototipado del MVP.
 
-  1.- Entrevistas a 7 usuarios.
+  1.- Entrevistas a 6 usuarios.
   2.- El proceso consistió en explicar el objetivo del prototipo y el flujo con un tiempo de 15 minutos por usuario.
   3.- Después de recibir feedback se procedió a mejorar el paper prototyping.
   4.- Finalmente pasamos a prototipar nuestras vistas en Marvel y Figma.
@@ -327,36 +331,27 @@
 
   **Resultado final Prototipo - Alta fidelidad (Versión 01)**
 
-   ![prototipo](assets/images/prot_1.png)
-   ![prototipo](assets/images/prot_2.png)
-   ![prototipo](assets/images/prot_3.png)
-   ![prototipo](assets/images/prot_4.png)
-   ![prototipo](assets/images/prot_5.png)
+  [Prototipado Alta Fidelidad_1](https://marvelapp.com/project/2779796/)
 
-  **II.- Testing de Prototipo - Alta fidelidad (Versión 02)**
+  **II.- Testing de Prototipo - Alta fidelidad (Versión 01)**
 
-  Después de la exposición se obtuvo feedback de nuestro producto:
+Después de la exposición se obtuvo feedback de nuestro producto:
 
-  **Testing 07 - Gonzalo:**
+**Gonzalo:**
       
     * El color del producto debe de ser mejorado para una mejor diseño visual.
     * Los iconos deben ser consistentes en forma, tamaño y color.
     * El botón de depósito, debe ser ubicado en un mejor lugar de la aplicación.
     * Desarrollar la seguridad a través de otro medio que la huella dactilar.
 
-  **Resultado final Prototipo - Alta fidelidad (Versión 02)**
+## Presentación final
 
-    Con las observaciones recibidas en la exposición se decidió hacer cambios.
-    
-    - Color que se utilizó para un mejor diseño visual es: #2B0436 (header y footer), #FFA700 (botones, menú, y títulos) y #D9D9D9 (fondo de la pantalla)
-    - Se mejoró la presentación del menú hamburguesa.
-    - Se brindó  consistencia a los iconos de los servicios a ofrecer.
+[Presentación final](https://marvelapp.com/41eiae5/screen/39555290)
 
-   ![prototipo](assets/images/proto_1.png)
-   ![prototipo](assets/images/proto_2.png)
-   ![prototipo](assets/images/proto_3.png)
-   ![prototipo](assets/images/proto_4.png)
-   ![prototipo](assets/images/proto_5.png)
-  
-  ## Presentación final
-[presentación](https://www.canva.com/design/DACxfg7JI2I/rsybx_uKkuPhMpiJa4-JAg/edit)
+## Equipo de trabajo
+
++ Colqui Santos, L. Vanessa.
++ Humpiri Vargas, Esthefany.
+***
+
+
