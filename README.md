@@ -160,11 +160,7 @@
 
    - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo  respuestas.
 
-   ![Fotos en la encuesta]().
-   ![Fotos en la encuesta]().
-   ![Fotos en la encuesta]().
-
-   #### 4.- Investigación por internet ( web de empresas de buses, agencia de venta de pasajes, encuestas o estudios anteriores, foros, facebook, apps, etc)
+   #### 4.- Investigación por internet 
 
    - Se identificaron los temas a investigar en internet: plataformas online, todo sobre las empresas de buses, etc.
    [Millennials_tarjetas de crédito](https://gestion.pe/tu-dinero/millennials-descartan-tarjetas-credito-amenazan-sector-ee-uu-228222).
@@ -187,7 +183,7 @@
 
    #### 2.- Definición User persona.
 
-   ![user_persona](assets/images/user_persona.PNG)
+   ![userpersona](assets/images/userpersona.png)
 
 
    #### 6.- Definición de los Problems Statements.
@@ -241,7 +237,9 @@
 
    Partiendo de nuestro user persona, creamos un storyboard, con los momentos que tiene el usuario a lo largo de su proceso de realizar transacciones.
 
-   Así como también a tener más claro hacia dónde queremos llevar el diseño de nuestro producto y poder resolver de la manera más óptima la necesidad de nuestro usuario a cubrir.
+   Así como también a tener más claro hacia dónde queremos llevar el diseño de nuestro producto y poder resolver de la manera más óptima la necesidad de nuestro usuario.
+
+   ![storyboard](assets/images/storyboard.png)
 
 
  ## D. Prototipado
@@ -257,11 +255,11 @@
 
   - Sé hizo un prototipo inicial en papel de nuestro MVP.
 
-  - Nos basamos en el flujo que se hizo en el prototype content y story board. 
 
-   ![Fotos del prototipado]()
+   ![paper_prototype](assets/images/paper01.jpg)
+   ![paper_prototype](assets/images/paper02.jpg)
 
-  - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactorio para el usuario antes de mandarlo al diseño de un interfaz de alta fidelidad.
+  - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactoria para el usuario.
 
   #### 4.- Realización del Prototipado - Alta fidelidad (Versión 01)
     
