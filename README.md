@@ -268,20 +268,12 @@
   - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactorio para el usuario antes de mandarlo al diseño de un interfaz de alta fidelidad.
 
   #### 4.- Realización del Prototipado - Alta fidelidad (Versión 01)
-    
-   ![prototipo](assets/images/prot_1.png)
-   ![prototipo](assets/images/prot_2.png)
-   ![prototipo](assets/images/prot_3.png)
-   ![prototipo](assets/images/prot_4.png)
-   ![prototipo](assets/images/prot_5.png)
-
+   
+   [Prototipado Alta Fidelidad_1](https://marvelapp.com/project/2779796/)
+   
  #### 5.- Realización del Prototipado - Alta fidelidad (Versión 02)
 
-   ![prototipo](assets/images/proto_1.png)
-   ![prototipo](assets/images/proto_2.png)
-   ![prototipo](assets/images/proto_3.png)
-   ![prototipo](assets/images/proto_4.png)
-   ![prototipo](assets/images/proto_5.png)
+   [prototipado_version 02](https://marvelapp.com/41eiae5/screen/39555290)
 
  ## E. Testing
 
@@ -335,20 +327,36 @@
 
   **Resultado final Prototipo - Alta fidelidad (Versión 01)**
 
-  [Prototipado Alta Fidelidad_1](https://marvelapp.com/project/2779796/)
+   ![prototipo](assets/images/prot_1.png)
+   ![prototipo](assets/images/prot_2.png)
+   ![prototipo](assets/images/prot_3.png)
+   ![prototipo](assets/images/prot_4.png)
+   ![prototipo](assets/images/prot_5.png)
 
-  **II.- Testing de Prototipo - Alta fidelidad (Versión 01)**
+  **II.- Testing de Prototipo - Alta fidelidad (Versión 02)**
 
-Después de la exposición se obtuvo feedback de nuestro producto:
+  Después de la exposición se obtuvo feedback de nuestro producto:
 
-**Gonzalo:**
+  **Testing 07 - Gonzalo:**
       
     * El color del producto debe de ser mejorado para una mejor diseño visual.
     * Los iconos deben ser consistentes en forma, tamaño y color.
     * El botón de depósito, debe ser ubicado en un mejor lugar de la aplicación.
     * Desarrollar la seguridad a través de otro medio que la huella dactilar.
 
-## Presentación final
+  **Resultado final Prototipo - Alta fidelidad (Versión 01)**
 
-[Presentación final](https://marvelapp.com/41eiae5/screen/39555290)
+    Con las observaciones recibidas en la exposición se decidió hacer cambios.
+    
+    - Color que se utilizó para un mejor diseño visual es: #2B0436 (header y footer), #FFA700 (botones, menú, y títulos) y #D9D9D9 (fondo de la pantalla)
+    - Se mejoró la presentación del menú hamburguesa.
+    - Se brindó  consistencia a los iconos de los servicios a ofrecer.
 
+   ![prototipo](assets/images/proto_1.png)
+   ![prototipo](assets/images/proto_2.png)
+   ![prototipo](assets/images/proto_3.png)
+   ![prototipo](assets/images/proto_4.png)
+   ![prototipo](assets/images/proto_5.png)
+  
+  ## Presentación final
+[presentación](https://www.canva.com/design/DACxfg7JI2I/rsybx_uKkuPhMpiJa4-JAg/edit)
