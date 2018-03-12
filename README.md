@@ -139,6 +139,8 @@
       - Definir las funcionalidades clave.
       - Definir nuestro business model canvas.
 
+## Reto 2
+
 ## Etapas DCU (Diseño Centrado en el Usuario)
 
 ## A. Descubrimiento e Investigación
@@ -148,17 +150,21 @@
    #### 1.- Formulación de las preguntas para la entrevista con usuarios y la encuesta online
 
    - A través de la herramienta: lluvia de ideas, logramos definir las preguntas para la entrevista; teniendo en consideración el objetivo identificado.
-   [Preguntas para la entrevista con usuarios:]().
-   [Preguntas para la encuesta online con usuarios:]().
+   [Preguntas para la entrevista con usuarios:](https://docs.google.com/document/d/1XI5YYaVxM5E3R1uX5pfYhQL_LyBxuVno94H1dR0lmO8/edit?usp=sharing).
+   [Preguntas para la encuesta online con usuarios:](https://docs.google.com/document/d/1yWoZBcfK4OFIVONvxfLzlml2xWC6PaOX6vWADTTiGuA/edit?usp=sharing).
 
    #### 2.- Entrevista con usuarios y stakeholders
 
    - Recolección de datos presencial.
    - Universidad César Vallejo, 5 usuarios de edades entre 20 y 25 años de edad (millennials) .
 
-   #### 3.- Encuesta online a través de Google Drive
+   #### 3.- Encuesta online a través de Google Forms
 
    - Recolección de datos online, a través de publicaciones en el facebook, correo electrónico, etc. Se obtuvo  respuestas.
+- 
+- ![encuesta](assets/images/encuesta02.PNG)
+- ![encuesta](assets/images/encuesta01.PNG)
+- 
 
    #### 4.- Investigación por internet 
 
@@ -229,6 +235,8 @@
 
    #### 9.- Definición de FEATURE LIST.
 
+   ![feature](assets/images/feature_list.png)
+
  ## C. Ideación
 
    ### Actividades:
@@ -246,7 +254,7 @@
 
   ### Actividades:
 
-  #### 1.- Realización del Prototype Content(02/02/2018 y 05/02/2018).
+  #### 1.- Realización del Prototype Content(02/02/2018 y 05/02/2018)
 
   - Se realizó el prototype content de nuestro MVP.
 
@@ -263,6 +271,7 @@
 
   #### 4.- Realización del Prototipado - Alta fidelidad (Versión 01)
     
+   
    ![prototipo](assets/images/prot_1.png)
    ![prototipo](assets/images/prot_2.png)
    ![prototipo](assets/images/prot_3.png)
@@ -271,11 +280,13 @@
 
  #### 5.- Realización del Prototipado - Alta fidelidad (Versión 02)
 
+   ![prototipo](assets/images/proto_0.png)
    ![prototipo](assets/images/proto_1.png)
    ![prototipo](assets/images/proto_2.png)
    ![prototipo](assets/images/proto_3.png)
    ![prototipo](assets/images/proto_4.png)
    ![prototipo](assets/images/proto_5.png)
+   ![prototipo](assets/images/proto_6.png)
 
  ## E. Testing
 
