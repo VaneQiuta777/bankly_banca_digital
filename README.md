@@ -31,7 +31,7 @@
   El product manager encargado te ha pedido además que para la sesión de kick - off, vengas con un Business Model Canvas (hipotético) del producto "Banco 100% digital", para que así los stakeholders puedan validar o invalidar las hipótesis o pedirte que te enfoques en validar alguna hipótesis durante la investigación.
   Además, te piden que llegues a la reunión de kick - off con un plan propuesto de investigación, en el que detalles qué actividades de investigación, según tu criterio se deberían realizar, sustentando el por qué propones c/u de esas actividades.
 
-  * Reto 2:
+* Reto 2:
 
   - Llevar a cabo las actividades de investigación.
   - Crear un prototipo de la nueva banca digital - basado en el journey más crítico que encuentres en tu investigación.
