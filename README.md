@@ -7,8 +7,8 @@
 * **UNIDAD 2:** _LECCIONES SOBRE DISEÑO Y TECNOLOGÍA_
 
 ***
-# RETO: BANCO DIGITAL PARA MILLENNIALS 
-![logo_Banco](assets/images/bankly_logo.png)
+# APP MÓVIL BANCO DIGITAL PARA MILLENNIALS 
+![foto-ppal](assets/images/foto-ppal.png)
 
 ### Descripción del reto
 
@@ -54,25 +54,24 @@
 ## B. Plantear el Kick-Off Meeting
 
    ### Antes de la reunión
-   * Conocer todo sobre el proyecto
-
-    - ¿Cuál es el objetivo del proyecto?
-    - ¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)
-    - ¿Cuál es el alcance del proyecto y sus entregables principales?
-    - ¿Cuáles son las fechas críticas (hitos) del proyecto?
-    - ¿Cuál es su coste?
-    - ¿Cuáles son los principales riesgos asociados al proyecto?
-   * Conocer el entorno del proyecto
-    - ¿Existe algún supuesto, premisa, restricción o exclusión que se tiene que tener en cuenta?
-   * Entender el entorno (la organización, el sector) en el que se va a desarrollar el proyecto
-   * Conocer a los principales stakeholders
-   * Identificar y conocer los stakeholders (interesados/afectados) del proyecto.
-   * Establecer una agenda, que responda lo siguiente:
-    - ¿Por qué? Por qué se está haciendo el proyecto. Qué busca resolver.
-    - ¿Qué? En qué consiste la solución. Qué se va hacer. 
-    - ¿Cómo? Cómo se va a trabajar.
-    - ¿Cuándo? Cuándo se tendrán que hacer las cosas.
-    - ¿Quién? Quién va hacer qué.
+   Conocer todo sobre el proyecto
+   - ¿Cuál es el objetivo del proyecto?
+   - ¿Qué beneficios, cual es el valor que aportará a la organización? (tanto a tu organización como al cliente)
+   - ¿Cuál es el alcance del proyecto y sus entregables principales?
+   - ¿Cuáles son las fechas críticas (hitos) del proyecto?
+   - ¿Cuál es su coste?
+   - ¿Cuáles son los principales riesgos asociados al proyecto?
+   Conocer el entorno del proyecto
+   - ¿Existe algún supuesto, premisa, restricción o exclusión que se tiene que tener en cuenta?
+   Entender el entorno (la organización, el sector) en el que se va a desarrollar el proyecto
+   Conocer a los principales stakeholders
+   Identificar y conocer los stakeholders (interesados/afectados) del proyecto.
+   Establecer una agenda, que responda lo siguiente:
+   - ¿Por qué? Por qué se está haciendo el proyecto. Qué busca resolver.
+   - ¿Qué? En qué consiste la solución. Qué se va hacer. 
+   - ¿Cómo? Cómo se va a trabajar.
+   - ¿Cuándo? Cuándo se tendrán que hacer las cosas.
+   - ¿Quién? Quién va hacer qué.
 
 ### Durante la reunión
 
@@ -105,7 +104,7 @@
        - Indicadores socioeconómicos de los millennials.
        - Encuestas para conocer las necesidades y/o problemas financieros de los millennials.
        - Analizar la data de las encuestas.
-       - 
+
     1.2 Buscar datos cualitativos.
        - Identificar las transacciones digitales que se pueden realizar.
        - Identificar los procesos  que realizan los bancos.
@@ -198,7 +197,6 @@
 
       *CARLA NECESITA : {necesidad}  PORQUE/PARA :{insight}*
 
-
    - Esta actividad nos ayuda más a centrarnos en los resultados que en el producto, ya que esta lista  de las necesidades de Carla y el motivo de sus necesidades, nos permite ir viendo formas de resolver ( HMW) específicamente cada necesidad punto por punto.
 
    - Lista de los Problems stataments identificados:
@@ -249,7 +247,6 @@
 
    ![storyboard](assets/images/storyboard.png)
 
-
  ## D. Prototipado
 
   ### Actividades:
@@ -258,11 +255,9 @@
 
   - Se realizó el prototype content de nuestro MVP.
 
- 
   #### 2.- Realización del Paper Prototyping
 
   - Sé hizo un prototipo inicial en papel de nuestro MVP.
-
 
    ![paper_prototype](assets/images/paper01.jpg)
    ![paper_prototype](assets/images/paper02.jpg)
@@ -270,8 +265,7 @@
   - El hacer el prototipo inicial en papel nos permitió tener una interfaz de baja fidelidad, económico que nos ayudó a verificar si los usuarios son capaces de realizar sus tareas (identificar claramente los componentes que le llevara a entender una funcionalidad; y una navegación clara) con la interfaz propuesta, ver las dificultades que tiene, que cosas no le gusta; y de esta manera,sin más costo, cambiar dichos requerimientos, observaciones o recomendaciones y volver a testearla hasta tener una interfaz entendible y satisfactoria para el usuario.
 
   #### 4.- Realización del Prototipado - Alta fidelidad (Versión 01)
-    
-   
+
    ![prototipo](assets/images/prot_1.png)
    ![prototipo](assets/images/prot_2.png)
    ![prototipo](assets/images/prot_3.png)
@@ -291,7 +285,6 @@
  ## E. Testing
 
   ### Actividades:
-
 
   **I.- Testing del Paper Prototyping**
 
@@ -320,7 +313,7 @@
 
     * Me gusta que para hacer transferencias no me pide clave token.
     * Es necesario que me indique la lista de las empresas de los servicios básicos.
-    
+
   **Testing 04:**
 
     * Es muy confuso cuando me solicita que copie el código de mi huella dactilar, debería guardarse automáticamente.
@@ -361,6 +354,5 @@ Después de la exposición se obtuvo feedback de nuestro producto:
 
 + Colqui Santos, L. Vanessa.
 + Humpiri Vargas, Esthefany.
+
 ***
-
-
