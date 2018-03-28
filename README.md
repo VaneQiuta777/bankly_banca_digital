@@ -7,7 +7,8 @@
 * **UNIDAD 2:** _LECCIONES SOBRE DISEÑO Y TECNOLOGÍA_
 
 ***
-# APP MÓVIL BANCO DIGITAL PARA MILLENNIALS 
+# APP MOVIL BANCO DIGITAL PARA MILLENNIALS 
+
 ![foto-ppal](assets/images/foto-ppal.png)
 
 ### Descripción del reto
